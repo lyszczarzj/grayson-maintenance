@@ -15,7 +15,7 @@ header('Retry-After: 3600') // Try again in one hour?
         <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap" rel="stylesheet"/>
         <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;1,100;1,200;1,300;1,400;1,700&amp;display=swap" rel="stylesheet"/>
         <link href="temp-files/reset.css" rel="stylesheet"/>
-        <link href="temp-files/styles.css" rel="stylesheet"/>
+        <link href="temp-files/tp-styles.css" rel="stylesheet"/>
     </head>
     <body>
         <main>
