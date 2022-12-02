@@ -24,8 +24,8 @@ header('Retry-After: 3600') // Try again in one hour?
             <h1>Under Maintenance</h1>
             <hr/>
             <p>The Grayson College website is temporarily down for maintenance. <br/>Please check back soon!</p>
-            <p>MyViking Portal and Canvas are still accessible at this time.</p>
-            <a class="btn" title="Access GC Identity Portal" href="https://gcidentity.grayson.edu/">MyViking / GCIdentity</a>
+            <p>MyViking and Canvas are still accessible at this time.</p>
+            <a class="btn" title="Access GCIdentity Dashboard" href="https://gcidentity.grayson.edu/">MyViking</a>
             </div>
         </main>
     </body>
