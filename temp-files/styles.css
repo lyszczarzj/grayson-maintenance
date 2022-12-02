@@ -62,10 +62,13 @@ hr {
     color: #fff;
     background-color: #002265;
     border-color: #002265;
+    text-decoration:none;
 }
+
 .btn:hover {
     text-decoration:none;
     color:#002265;
     background-color:#ffffff;
     border-color:#002265;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
 }
