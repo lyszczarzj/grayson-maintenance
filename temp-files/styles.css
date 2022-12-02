@@ -63,6 +63,7 @@ hr {
     background-color: #002265;
     border-color: #002265;
     text-decoration:none;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
 }
 
 .btn:hover {
@@ -70,5 +71,5 @@ hr {
     color:#002265;
     background-color:#ffffff;
     border-color:#002265;
-    font-family: Raleway, Arial, Helvetica, sans-serif;
+    
 }
