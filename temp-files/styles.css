@@ -1,0 +1,45 @@
+body {
+    line-height:1.5;
+}
+.logo {
+    text-align:center;
+    display:block;
+    margin:auto;
+    max-width:100%;
+    height:auto;
+}
+p {
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    color:#002265;
+    font-size:1.5rem;
+    margin-bottom:1rem;
+}
+h1 {
+    font-family:Bebas Neue, Raleway, Arial, Sans-Serif;
+    font-size:3rem;
+    color:#002265;
+}
+main {
+    max-width:90%;
+    margin:auto;
+    text-align:center;
+    background:#FFF;
+    min-height: 100vh;
+}
+body {
+    background: #002265;
+}
+hr {
+    max-width: 900px;
+    margin:20px auto;
+}
+.container {
+    max-width:900px;
+    margin:auto;
+    padding: 10px;
+}
+@media screen and (min-width:768px) {
+    main {
+        max-width:1200px;
+    }
+}
