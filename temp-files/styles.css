@@ -42,9 +42,10 @@ hr {
     margin:auto;
     padding: 10px;
 }
+/* medium/tablet styling overrides */
 @media screen and (min-width:768px) {
     main {
-        max-width:1200px;
+        max-width:768px;
         padding: 40px;
     }
     p {
@@ -54,6 +55,13 @@ hr {
         font-size:3rem;
     }
 }
+/* full desktop styling overrides */
+@media screen and (min-width:1366px) {
+    main {
+        max-width:1200px;
+    }
+}
+
 .btn {
     display:inline-block;
     font-weight:400;
