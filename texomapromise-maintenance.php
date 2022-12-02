@@ -24,7 +24,7 @@ header('Retry-After: 3600') // Try again in one hour?
             <h1>Under Maintenance</h1>
             <hr/>
             <p>The Texoma Promise website is temporarily down for maintenance. <br/>Please check back soon!</p>
-            <p>The Promise Pledge form is still available</p>
+            <p>The Promise Pledge form is still available.</p>
             <a class="btn" title="Texoma Promise Pledge Form" href="https://grayson.tfaforms.net/f/texomapromise">Complete the Promise Pledge</a>
             </div>
         </main>
