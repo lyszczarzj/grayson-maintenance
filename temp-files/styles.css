@@ -1,5 +1,6 @@
 body {
     line-height:1.5;
+    box-sizing: border-box;
 }
 .logo {
     text-align:center;
@@ -24,6 +25,8 @@ main {
     margin:auto;
     text-align:center;
     background:#FFF;
+    min-height:500px;
+    padding: 40px;
     min-height: 100vh;
 }
 body {
