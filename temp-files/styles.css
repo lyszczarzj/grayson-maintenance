@@ -85,7 +85,7 @@ hr {
     font-family: Raleway, Arial, Helvetica, sans-serif;
 }
 
-.btn:hover {
+.btn:hover, .btn:focus {
     text-decoration:none;
     color:#002265;
     background-color:#ffffff;
